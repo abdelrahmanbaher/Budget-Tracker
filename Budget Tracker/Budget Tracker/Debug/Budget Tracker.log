@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\projects\visual studio projects\budget tracker\budget tracker\source.cpp(136): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\projects\visual studio projects\budget tracker\budget tracker\source.cpp(440): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\projects\visual studio projects\budget tracker\budget tracker\source.cpp(462): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\projects\visual studio projects\budget tracker\budget tracker\source.cpp(521): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\projects\visual studio projects\budget tracker\budget tracker\source.cpp(822): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\projects\visual studio projects\budget tracker\budget tracker\source.cpp(844): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Budget Tracker.vcxproj -> D:\Projects\Visual studio projects\Budget Tracker\Debug\Budget Tracker.exe
+  Budget Tracker.vcxproj -> D:\Projects\Visual studio projects\Budget Tracker\Debug\Budget Tracker.pdb (Partial PDB)
